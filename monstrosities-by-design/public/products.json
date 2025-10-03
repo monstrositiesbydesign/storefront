@@ -1,0 +1,27 @@
+[
+  {
+    "name": "3D Printed Jack-o-Lantern",
+    "category": "Home Decor",
+    "image": "https://i.ibb.co/ncwLHQp/jack-o-lantern.jpg"
+  },
+  {
+    "name": "Custom LED Lightbox",
+    "category": "Home Decor",
+    "image": "https://i.ibb.co/vsQhb2y/lightbox.jpg"
+  },
+  {
+    "name": "Romantasy Bookmark",
+    "category": "BookTok",
+    "image": "https://i.ibb.co/Qcf6X6X/bookmark.jpg"
+  },
+  {
+    "name": "Raven Clock",
+    "category": "Home Decor",
+    "image": "https://i.ibb.co/YtY5XW0/raven-clock.jpg"
+  },
+  {
+    "name": "Aviation Headset Mount",
+    "category": "Aviation",
+    "image": "https://i.ibb.co/PMbqLcx/headset-mount.jpg"
+  }
+]
